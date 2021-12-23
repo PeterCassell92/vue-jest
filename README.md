@@ -1,5 +1,5 @@
-#Troubleshooting installation
+Following PluralSight Course:
+https://app.pluralsight.com/library/courses/vue-components-jest-testing/
+by Daniel Stern.
 
-- jest.config
-- type: module
-- use BRIDGE version of babel-core
+Application is a simple, prebuilt messenger app.

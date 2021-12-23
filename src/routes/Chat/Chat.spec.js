@@ -2,7 +2,7 @@ import Chat from './Chat.vue';
 import { mount, shallowMount } from '@vue/test-utils';
 
 describe("Chat Message Service",function(){
-  it.todo("should return an array of messages");
+  // it.todo("should return an array of messages");
 
   let wrapper = null;
 
